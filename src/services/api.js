@@ -8,3 +8,4 @@ module.exports = {
   GOODS: `${BASE_URL}/goods`,
   GOODS_COLUMNS: `${BASE_URL}/columns`,
 }
+123
