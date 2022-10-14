@@ -9,3 +9,4 @@ module.exports = {
   GOODS_COLUMNS: `${BASE_URL}/columns`,
 }
 123
+456
